@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "com.sichu8.app"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Si-Chu</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+	  Si chu client.
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://ax003d.github.com"
+		email="ax003d@gmail.com">
+		Ax003d
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
